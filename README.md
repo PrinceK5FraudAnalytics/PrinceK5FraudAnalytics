@@ -1,4 +1,4 @@
-# Prince K5
+# Prince Kumar
 
 ### AI Engineer | Machine Learning Researcher | Reproducible Systems Builder
 
